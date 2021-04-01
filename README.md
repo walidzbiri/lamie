@@ -2,7 +2,7 @@
 
 Pour lancer la petite application:
 
-- Télecharger la repo via terminal ou bien graphiquement.
+- Télécharger la repo via terminal ou bien graphiquement.
 - Ouvrir la page web index.html avec un navigateur(Application testée sur FireFox/Chrome/Edge).
 
 Enjoy!
